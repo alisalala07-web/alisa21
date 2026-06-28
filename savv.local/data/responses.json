@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "submitted_at": "2026-06-29 01:49:02",
+        "q1_status": "Закончил обучение",
+        "q2_finish_reason": "Успешно завершил полный курс",
+        "q2_other": "",
+        "q3_life_impact": "2",
+        "q4_career_changes": "Заметных изменений не произошло",
+        "q5_work_help": "Пока не работаю \/ работа не связана с IT",
+        "q5_other": "",
+        "q6_expectations": "Полностью оправдались",
+        "q7_expectations_text": "13",
+        "q8_liked": "1232",
+        "q9_problems": "12312",
+        "q10_suggestions": "12313",
+        "q11_community_support": "Отлично, всегда помогали",
+        "q12_extra_courses": "Да",
+        "q12_text": "123132",
+        "q13_gender": "Женский",
+        "q14_age": "17–24",
+        "q15_family": "Холост \/ не замужем",
+        "q16_work_or_study": "123",
+        "q17_source": "От работодателя",
+        "q17_other": ""
+    }
+]
